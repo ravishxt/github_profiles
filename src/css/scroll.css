@@ -1,0 +1,8 @@
+div.robots-view::-webkit-scrollbar {
+    display: none;
+}
+
+div.robots-view {
+    overflow: scroll;
+    height: 700px;
+}

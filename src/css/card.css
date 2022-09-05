@@ -1,0 +1,17 @@
+section {
+    background-color: #eee;
+    height: 50vh;
+}
+
+div.container {
+    padding-top: 120px;
+}
+
+button .github-logo {
+    margin-right: 12px;
+}
+
+button .github-profile {
+    color: white;
+    text-decoration: none;
+}
